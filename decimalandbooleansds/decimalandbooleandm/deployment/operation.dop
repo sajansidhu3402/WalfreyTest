@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="decimalandbooleandm">
+  <name>decimalandbooleandm</name>
+  <uuid>0ea93928-0c62-401e-9a19-42658df09b40</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#37a29ca6-80aa-419a-a4ba-382a31ab75bb"/>
+  <targetRuleProject href="../../decimalandbooleandm#26a719b6-ff87-43c0-87ea-298105974f9f"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>

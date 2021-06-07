@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>listrule</name>
+  <uuid>05b708e9-03bc-4a0d-9ebc-c74fedd99e16</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[if
+    Input is "Harshul"
+then
+    add 100 to decision ;
+    add 99 to decision ;
+    add 98 to decision ;
+    add 97 to decision ;    
+else
+    add 0 to decision;
+
+
+
+
+]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>
